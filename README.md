@@ -12,4 +12,4 @@ Official Page & How To Use
 =========
 
 You can see updates and infos about this class in my website :
-http://blog.alafalaki.ir/کلاس-درگاه-پرداخت-دو-مرحله-ای-بانک-پاسا/" ta
+http://blog.alafalaki.ir/درگاه-پرداخت-دو-مرحله-ای-بانک-پاسا/
