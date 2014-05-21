@@ -11,5 +11,5 @@ Released under MIT License.
 Official Page & How To Use
 =========
 
-You can see updates and infos about this class in my website :
+You can see updates and infos about this class in my website :<br />
 http://blog.alafalaki.ir/کلاس-درگاه-پرداخت-دو-مرحله-ای-بانک-پاسا/
